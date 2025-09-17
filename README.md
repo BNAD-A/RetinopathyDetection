@@ -13,6 +13,11 @@ Ce projet est né d’une conviction forte :
 Il ne s’agit pas simplement d’automatiser un diagnostic,  
 mais de **redonner du temps, du répit et de la sérénité** à ceux qui soignent et à ceux qui espèrent.  
 
+Pour cela, nous avons conçu un **modèle basé sur EfficientNetV2S**,  
+renforcé par un **module d’attention Double CBAM**.  
+Un duo qui permet à l’IA de **focaliser son regard sur les zones les plus révélatrices**,  
+et d’**améliorer la détection des cas précoces souvent invisibles à l’œil humain.**
+
 Nous voulons que l’intelligence artificielle devienne un **allié silencieux**,  
 capable d’alerter avant qu’il ne soit trop tard,  
 d’ouvrir une fenêtre de prévention là où, hier encore, il n’y avait qu’un mur de retard.  
